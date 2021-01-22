@@ -16,7 +16,7 @@
         * [发布API](/uapigateway/operation_guide/open_api/publish_api)
         * [策略管理](/uapigateway/operation_guide/open_api/strategy.md)
         * [跨域访问](/uapigateway/operation_guide/open_api/cors.md)
-    * 调用API
+   * 调用API
         * [概述](/uapigateway/operation_guide/use_api/intro)
         * [创建应用](/uapigateway/operation_guide/use_api/create_app)
         * [授权应用](/uapigateway/operation_guide/use_api/grant_app_access)
